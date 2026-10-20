@@ -15,7 +15,8 @@ Grab the newest build from the **[Releases](../../releases/latest)** page.
 | --- | --- |
 | **Android** phone | `Flare-<version>-android.apk` |
 | **iPhone** | Not on the App Store yet. See *iPhone* below. |
-| **macOS** (Apple Silicon) | `Flare-<version>-arm64.dmg` |
+| **macOS** (Apple Silicon) | `Flare-<version>-mac-arm64.dmg` |
+| **macOS** (Intel) | `Flare-<version>-mac-x64.dmg` |
 | **Windows** 10 / 11 (64‑bit) | `Flare-Setup-<version>-win-x64.exe` (installer) or `Flare-Portable-<version>-win-x64.exe` (no install) |
 | **Linux** | `Flare-<version>-linux-x86_64.AppImage` or `Flare-<version>-linux-amd64.deb` (Intel/AMD) · `…-arm64.AppImage` / `…-arm64.deb` (ARM) |
 
