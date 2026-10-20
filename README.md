@@ -74,7 +74,7 @@ comes from.
 ## Price
 
 Flare is **free for one day** on each computer. After that, one payment of
-**$11.99** (via Polar) unlocks that computer forever: click **Unlock Flare** in
+**$4.99** (via Polar) unlocks that computer forever — lifetime, no subscription: click **Unlock Flare** in
 Flare on the computer (or in the menu bar / tray menu), pay, and paste the
 license key from your receipt into Flare. One key works on up to 3 computers.
 
