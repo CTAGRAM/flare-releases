@@ -3,9 +3,11 @@
 <p align="center">Flick a file off your phone and it lands on your computer’s desktop.</p>
 
 Hold your phone next to your computer, press and hold, and the two light up
-together. Then press and hold any photo or file on your phone and flick it
-upward: a burst of light rolls across your computer’s screen and the file lands
-on the desktop. No account, no cloud, nothing leaves your Wi‑Fi.
+together. Then press and hold any photo or file on your phone and carry it off
+the edge: the computer’s edge lights up as you come near, the card crosses onto
+its screen with a ripple and lands on the desktop. Videos, songs, YouTube and
+Instagram keep playing on the computer from the same second — and come back
+the same way. No account, no cloud, nothing leaves your Wi‑Fi.
 
 ## Download
 
@@ -60,6 +62,20 @@ Flare lives in the system tray.
    onto its screen as you push it over. Let go past the edge, or flick it: a
    wave of light rolls across the computer and the file lands where it stops.
    A hard flick sends it further. Pull the card back to cancel.
+
+6. **Videos and songs** — tap one to play it on the phone, then press the card
+   and carry it off the edge: it keeps playing on the computer, in a floating
+   player, from the same second. Drag that player to the edge of the screen
+   (or fling it) and it comes back to the phone where it left off.
+7. **YouTube and Instagram** — add a link with **+ → Link or text** (a copied
+   link is offered to you when you come back to Flare). Tap the card: the
+   video or reel plays live inside Flare. Carry it over and the computer plays
+   the same video from the same second: YouTube in a floating player with
+   Flare’s controls, Instagram as the real post in a small window you can drag
+   around. Drag either off the edge to pull it back to the phone. (Instagram
+   may ask you to log in or tap *Continue on web* the first time.)
+8. **Other links and text** — Spotify links open in the Spotify app on the
+   computer, any other link in its browser, and text lands in its clipboard.
 
 Files are saved to **Desktop** by default; change it in Flare’s window on the
 computer. There you can also forget phones, pin which screen edge files come in
