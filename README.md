@@ -50,17 +50,26 @@ Flare lives in the system tray.
 
 1. Open Flare on the computer. Note its name in the window that appears.
 2. Open Flare on the phone. It finds the computer by itself:
-   **“Hold phone next to <Your Computer>”**. The computer’s screen edge lights
+   **“Hold phone next to <Your Computer>”**. The computer’s screen edges light
    up as the phone comes near.
 3. **Press and hold** the white circle. Click **Allow** on the computer. Both
    screens bloom white — you are connected (the phone remembers it).
 4. Tap **+** to put photos or files on the shelf.
-5. **Press and hold** a file, then **flick it up**. It dissolves into light on
-   the phone and lands top‑right on the computer’s desktop.
+5. **Press and hold** a file and **carry it toward the computer** — off any
+   edge of the phone. The computer’s facing edge lights up, and the card slides
+   onto its screen as you push it over. Let go past the edge, or flick it: a
+   wave of light rolls across the computer and the file lands where it stops.
+   A hard flick sends it further. Pull the card back to cancel.
 
 Files are saved to **Desktop** by default; change it in Flare’s window on the
-computer, where you can also forget phones and pick which screen edge the light
-comes from.
+computer. There you can also forget phones, pin which screen edge files come in
+from (default **Auto**: the edge facing the phone’s carry direction), turn the
+screen ripple on or off, and on macOS let Flare put the file’s icon where the
+card landed.
+
+On macOS, allow Flare under *System Settings → Privacy & Security → Screen
+Recording* for the full ripple (it bends what is on your screen). Flare only
+grabs one frame when a card is lifted; it never records.
 
 ## Troubleshooting
 
