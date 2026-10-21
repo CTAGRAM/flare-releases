@@ -77,6 +77,14 @@ Flare lives in the system tray.
 8. **Other links and text** — Spotify links open in the Spotify app on the
    computer, any other link in its browser, and text lands in its clipboard.
 
+9. **Not on the same Wi‑Fi?** Campus, hotel and office networks often keep
+   devices apart. Flare then meets the computer through its relay instead: in
+   Flare on the computer, under **Internet**, click **Show code**; on the phone,
+   tap **Enter address** and type the six digits. From then on the phone finds
+   that computer wherever both have internet, mobile data included. Everything
+   through the relay is sealed end to end; the relay only passes frames along
+   and stores nothing. Turn it off under **Internet** if you only ever use Wi‑Fi.
+
 Files are saved to **Desktop** by default; change it in Flare’s window on the
 computer. There you can also forget phones, pin which screen edge files come in
 from (default **Auto**: the edge facing the phone’s carry direction), turn the
@@ -91,8 +99,9 @@ grabs one frame when a card is lifted; it never records.
 
 - **No computer found** — both devices must be on the same Wi‑Fi, and Flare must
   be running on the computer. Some networks (hotels, campuses, guest Wi‑Fi)
-  block devices from seeing each other: tap **Enter address** on the phone and
-  type the address shown in Flare on the computer.
+  block devices from seeing each other: use the six-digit code from Flare’s
+  **Internet** section (step 9 above), or tap **Enter address** and type the
+  address shown in Flare on the computer if the network allows it.
 - **Windows firewall** asks on first launch: allow Flare on **private** networks.
 - **Nothing lands** — the phone shows an error and puts the file back. Connect
   again from the **⋯** menu → *Change computer*.
@@ -106,6 +115,9 @@ license key from your receipt into Flare. One key works on up to 3 computers.
 
 ## Privacy
 
-Everything goes phone → computer over your local network, directly. A phone can
-only send after you click **Allow** on the computer, and you can forget it at any
-time. Flare makes no network connections of its own.
+On Wi‑Fi everything goes phone → computer directly. When the relay is on
+(the default), the computer keeps one connection to Flare’s relay so phones
+can reach it from other networks; what travels through it is encrypted on the
+phone with a key only the two devices know, so the relay sees ciphertext and
+stores nothing. A phone can only send after you click **Allow** on the
+computer, and you can forget it at any time.
