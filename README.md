@@ -32,12 +32,21 @@ you can run it with the free [Expo Go](https://apps.apple.com/app/expo-go/id9821
 app: ask the developer for the project link, or build it yourself with Xcode.
 
 **macOS** — open the `.dmg` and drag Flare to Applications. The build is not
-notarised yet, so the first time macOS will say it “cannot be opened”.
-Right‑click Flare → **Open** → **Open**, once. Or run:
+notarised with Apple yet, so the first launch is blocked:
+
+- macOS 15 or newer: open Flare once (a dialog says Apple could not verify
+  it), click **Done**, then go to **System Settings → Privacy & Security**,
+  scroll down to *“Flare” was blocked*, click **Open Anyway** and confirm.
+- macOS 14 or older: right‑click Flare → **Open** → **Open**, once.
+- Any version, from Terminal:
 
 ```bash
 xattr -dr com.apple.quarantine /Applications/Flare.app
 ```
+
+If macOS says the app is **“damaged”**, you have a build older than
+0.5.1: download the current `.dmg` again (those builds were missing a proper
+signature) or run the Terminal command above.
 
 Flare lives in the menu bar (the little phone‑with‑a‑flare icon).
 
